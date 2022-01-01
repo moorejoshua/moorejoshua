@@ -35,9 +35,10 @@
 You may email me at moore.joshua.ak@protonmail.com,
 
 or send snailmail to 
-
+```
 Joshua M. Moore
 3916 East 9th Ave
 Anchorage, Alaska 99508
+```
 
 Today's date is December 31st, 2021.
