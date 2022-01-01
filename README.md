@@ -11,7 +11,7 @@
   - [Secure HyperText Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2660)
   - [HTTP Over TLS](https://datatracker.ietf.org/doc/html/rfc2818)
   - [ipfs](https://docs.ipfs.io/)
-  - [https://github.com/openpgpjs](OpenPGP.js)
+  - [OpenPGP.js](https://github.com/openpgpjs)
   - ~~[Satoshi's Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)~~
   - ~~[bittorrent](https://en.wikipedia.org/wiki/BitTorrent)~~
   - [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
