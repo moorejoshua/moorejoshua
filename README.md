@@ -30,8 +30,14 @@
   - a resume
   - a redo of thwee-alchemist/eight-queens
   - tidying up the graph visualization
-- 📫 How to reach me ...
-  - moore.joshua.ak@protonmail.com
-  - ```Joshua M. Moore
+
+📫 How to reach me ...
+You may email me at moore.joshua.ak@protonmail.com,
+
+or send snailmail to 
+
+Joshua M. Moore
 3916 East 9th Ave
-Anchorage, Alaska 99508```
+Anchorage, Alaska 99508
+
+Today's date is December 31st, 2021.
