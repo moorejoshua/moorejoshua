@@ -23,6 +23,7 @@
   - notes on generating a toy society, (and feeding it pizza)
   - a new, more professional portfolio page
 - 💞️ I’m looking to collaborate on
+  - technical writing
   - a cleaner version of ESnb
   - a friends' business venture(s)
   - a portfolio page
