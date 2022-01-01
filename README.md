@@ -32,3 +32,6 @@
   - tidying up the graph visualization
 - 📫 How to reach me ...
   - moore.joshua.ak@protonmail.com
+  - ```Joshua M. Moore
+3916 East 9th Ave
+Anchorage, Alaska 99508```
