@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moorejoshua
+- 👋 Hi, I’m @moorejoshuaak
 - 👀 I’m interested in 
   - dynamic graph visualizations
   - interactive code, maths, and science labs
@@ -32,7 +32,9 @@
   - tidying up the graph visualization
 
 📫 How to reach me ...
-You may email me at moore.joshua.ak@protonmail.com,
+You may email me at 
+- moore.joshua.ak@protonmail.com,
+- moore.joshua.ak@gmail.com
 
 or send snailmail to 
 ```
